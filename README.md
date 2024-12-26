@@ -7,7 +7,7 @@ The application is built using Python and utilizes the following libraries:
  - LangChain LLM framework (chatbot)
  - Gradio Interface (Frontend)
 
-![logo] (result.png)
+![Logo](result.png)
 
 # Getting Stated 
 - Open the 'Train tumor classifier.ipynb' on Google Colab and follow the set of instructions
